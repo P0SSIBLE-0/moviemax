@@ -14,7 +14,14 @@ pnpm dev
 bun dev
 ```
 
+# Screenshots
+![Screenshot 2024-09-26 180905](https://github.com/user-attachments/assets/5036f8fd-84a1-48bd-a51f-e077c0077546)
+
+![Screenshot 2024-09-26 181058](https://github.com/user-attachments/assets/de7ed809-ddb2-4271-b04e-6cd13dd242dc)
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
